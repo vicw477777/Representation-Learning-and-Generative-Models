@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+conda-env/
+miniconda3/
+
+# Logs / outputs
+logs/
+log/
+outputs/
+output/
+results/
+runs/
+wandb/
+checkpoints/
+checkpoint/
+
+# Data
+data/
+dataset/
+datasets/
+
+# Models / large arrays
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# System
+.DS_Store
